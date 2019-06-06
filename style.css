@@ -68,4 +68,8 @@ a{
     .span{
         font-size: 50px;
     }
+    .title{
+        display: block;
+        text-align: center;
+    }
 }
