@@ -5,5 +5,6 @@ document.body.appendChild(highlight);
 
 function highlightLink() {
     const linkCoords = this.getBoundingClientRect();
+ 
 
 }
