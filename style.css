@@ -21,3 +21,9 @@ html {
     line-height: 2;
     position: relative;
 }
+  a {
+    text-decoration: none;
+    color: lightgray;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
