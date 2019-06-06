@@ -39,3 +39,10 @@ html {
     display: block;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+  .menu {
+    padding: 0;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    margin: 100px 0;
+}
